@@ -1,0 +1,8 @@
+{
+  "name": "Rwanda Service Hub",
+  "description": "A single access point for essential Rwandan government procedures, document renewal reminders, health appointments, utility trackers, career listings, emergency contacts, and local alerts in Kinyarwanda, English, and French.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
